@@ -1,0 +1,15 @@
+Login_success~1~2016-09-29 11:05:02
+Signed_out~AMBIGUOUS~2016-09-29 11:09:50
+Login_success~1~2016-09-29 12:27:28
+Login_success~1~2016-09-29 12:42:42
+Login_success~1~2016-09-29 12:46:01
+Login_success~1~2016-09-29 01:09:40
+Signed_out~AMBIGUOUS~2016-09-29 01:12:29
+Unauthorized_access~AMBIGUOUS~2016-09-29 01:41:47
+Unauthorized_access~AMBIGUOUS~2016-09-29 01:41:55
+Unauthorized_access~AMBIGUOUS~2016-09-29 01:42:06
+Login_success~1~2016-09-29 01:42:16
+Signed_out~AMBIGUOUS~2016-09-29 01:43:17
+Signed_out~AMBIGUOUS~2016-09-29 01:46:56
+Login_success~1~2016-09-29 01:50:52
+Signed_out~AMBIGUOUS~2016-09-29 04:44:56

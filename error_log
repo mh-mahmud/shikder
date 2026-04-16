@@ -1,0 +1,37 @@
+[02-Nov-2016 18:46:53 Asia/Dhaka] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'application/controllers/Settings_controller.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/shikder/public_html/application/libraries/webspice.php on line 1904
+[02-Nov-2016 18:47:29 Asia/Dhaka] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'application/controllers/Settings_controller.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/shikder/public_html/application/libraries/webspice.php on line 1904
+[06-Nov-2016 16:28:23 Asia/Dhaka] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'application/controllers/Settings_controller.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/shikder/public_html/application/libraries/webspice.php on line 1904
+[08-Nov-2016 02:53:04 America/Chicago] PHP Fatal error:  Cannot redeclare Student_controller::send_sms() in /home/shikder/public_html/application/controllers/student_controller.php on line 1330
+[08-Nov-2016 02:53:15 America/Chicago] PHP Fatal error:  Cannot redeclare Student_controller::send_sms() in /home/shikder/public_html/application/controllers/student_controller.php on line 1330
+[08-Nov-2016 03:01:37 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1471
+[08-Nov-2016 03:01:59 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1471
+[08-Nov-2016 03:02:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1471
+[08-Nov-2016 03:04:23 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1471
+[08-Nov-2016 03:06:36 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1471
+[08-Nov-2016 03:08:53 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1471
+[08-Nov-2016 03:11:02 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1471
+[08-Nov-2016 03:18:23 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:18:33 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:19:08 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:21:47 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:21:51 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:26:49 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:29:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:30:36 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:33:23 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:39:38 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:40:30 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:42:31 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:42:58 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:43:09 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:43:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:43:29 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1470
+[08-Nov-2016 03:55:26 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1471
+[08-Nov-2016 03:56:15 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1471
+[08-Nov-2016 04:02:07 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1466
+[08-Nov-2016 04:04:59 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1466
+[08-Nov-2016 04:05:08 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1466
+[08-Nov-2016 04:07:52 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1466
+[08-Nov-2016 04:08:13 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1466
+[08-Nov-2016 04:10:51 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1467
+[08-Nov-2016 04:15:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/shikder/public_html/application/controllers/student_controller.php on line 1466
